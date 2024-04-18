@@ -1,0 +1,1179 @@
+
+
+Heart disease is the leading cause of death in the United States, and it’s a condition that affects millions of people. While there are many risk factors for heart disease, such as high blood pressure, high cholesterol, and smoking, one factor that often gets overlooked is stress. Stress can have a significant impact on your cardiovascular health, and it’s essential to manage it effectively to reduce your risk of developing heart disease.ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Output for MedDoc model is {'id': 'cmpl-1faad56f-6056-4217-8ec1-9b954c1db48e', 'object': 'text_completion', 'created': 1713323102, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': '\n\nHeart disease', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 5, 'total_tokens': 30}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Output for MedDoc model is {'id': 'cmpl-7a303d13-152b-4c66-81cb-cb22e33d9e52', 'object': 'text_completion', 'created': 1713323110, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' is the leading cause of', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 7, 'completion_tokens': 5, 'total_tokens': 12}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Output for MedDoc model is {'id': 'cmpl-bc2e1a52-636c-4663-836d-8d2efb2a9aaa', 'object': 'text_completion', 'created': 1713323113, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' death in the United States', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 5, 'total_tokens': 17}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Output for MedDoc model is {'id': 'cmpl-ad7afd6d-44a7-4419-8b41-72feeb7a2099', 'object': 'text_completion', 'created': 1713323115, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ', and it’s', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 17, 'completion_tokens': 5, 'total_tokens': 22}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a problem that affects millions
+Output for MedDoc model is {'id': 'cmpl-83d4739f-6e77-435b-977e-0d0ba22bf508', 'object': 'text_completion', 'created': 1713323116, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' a problem that affects millions', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 5, 'total_tokens': 27}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Output for MedDoc model is {'id': 'cmpl-0dba375e-34f3-423b-81ec-70db433d69c0', 'object': 'text_completion', 'created': 1713323118, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' of people. While there', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 27, 'completion_tokens': 5, 'total_tokens': 32}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Output for MedDoc model is {'id': 'cmpl-a76a9ea6-14a2-479f-8213-3a594b184da4', 'object': 'text_completion', 'created': 1713323120, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' are many risk factors for', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 32, 'completion_tokens': 5, 'total_tokens': 37}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, one of
+Output for MedDoc model is {'id': 'cmpl-52f1d1c7-c03a-44f3-9109-d26d1ef364fa', 'object': 'text_completion', 'created': 1713323122, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' heart disease, one of', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 5, 'total_tokens': 42}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ the most common is high
+Output for MedDoc model is {'id': 'cmpl-e70795ce-1642-4021-a1f5-0d6ea4f75f90', 'object': 'text_completion', 'created': 1713323123, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' the most common is high', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 42, 'completion_tokens': 5, 'total_tokens': 47}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure. High blood
+Output for MedDoc model is {'id': 'cmpl-ea768380-f137-4373-aa1f-85a5460e0298', 'object': 'text_completion', 'created': 1713323125, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' blood pressure. High blood', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 47, 'completion_tokens': 5, 'total_tokens': 52}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ pressure can lead to a
+Output for MedDoc model is {'id': 'cmpl-9710cf60-1c09-4757-b7fe-b39cdec1a617', 'object': 'text_completion', 'created': 1713323127, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' pressure can lead to a', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 52, 'completion_tokens': 5, 'total_tokens': 57}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ variety of health problems,
+Output for MedDoc model is {'id': 'cmpl-f42a0af1-c6af-4eec-94f0-8a0fe61b2b5c', 'object': 'text_completion', 'created': 1713323129, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' variety of health problems,', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 57, 'completion_tokens': 5, 'total_tokens': 62}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ including heart attack, stroke
+Output for MedDoc model is {'id': 'cmpl-9b52f27e-dd14-47c2-afe5-8687f5b2ab7f', 'object': 'text_completion', 'created': 1713323131, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' including heart attack, stroke', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 62, 'completion_tokens': 5, 'total_tokens': 67}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and kidney failure
+Output for MedDoc model is {'id': 'cmpl-33ae85ee-c952-4058-b89e-9086a673d8e2', 'object': 'text_completion', 'created': 1713323132, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ', and kidney failure', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 67, 'completion_tokens': 5, 'total_tokens': 72}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Fortunately, there are
+Output for MedDoc model is {'id': 'cmpl-efc745c2-6c5b-4cb2-a96b-2d90ad58b68a', 'object': 'text_completion', 'created': 1713323134, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': '. Fortunately, there are', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 72, 'completion_tokens': 5, 'total_tokens': 77}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ several natural remedies
+Output for MedDoc model is {'id': 'cmpl-ee4a3363-cb0d-474f-a575-1adcd0fb7bc5', 'object': 'text_completion', 'created': 1713323136, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' several natural remedies', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 77, 'completion_tokens': 5, 'total_tokens': 82}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ that can help lower your
+Output for MedDoc model is {'id': 'cmpl-61f0f645-af13-4633-9e1a-c19ced1df896', 'object': 'text_completion', 'created': 1713323137, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' that can help lower your', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 82, 'completion_tokens': 5, 'total_tokens': 87}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure and improve your
+Output for MedDoc model is {'id': 'cmpl-dac0837a-149c-4199-a7ab-729a213e7950', 'object': 'text_completion', 'created': 1713323139, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' blood pressure and improve your', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 87, 'completion_tokens': 5, 'total_tokens': 92}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ overall cardiovascular health
+Output for MedDoc model is {'id': 'cmpl-7d445107-0c20-4af9-ac4d-18bccc531e98', 'object': 'text_completion', 'created': 1713323141, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' overall cardiovascular health', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 92, 'completion_tokens': 5, 'total_tokens': 97}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Here are some of
+Output for MedDoc model is {'id': 'cmpl-1096a543-9de0-4bc9-bcc1-9a7877a5bd82', 'object': 'text_completion', 'created': 1713323143, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': '. Here are some of', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 97, 'completion_tokens': 5, 'total_tokens': 102}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ the best natural remed
+Output for MedDoc model is {'id': 'cmpl-39c698e9-6a94-494b-baa6-4969466b22ed', 'object': 'text_completion', 'created': 1713323144, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ' the best natural remed', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 102, 'completion_tokens': 5, 'total_tokens': 107}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ies for high blood pressure
+Output for MedDoc model is {'id': 'cmpl-bb589bb6-c2ea-4e3f-be38-7ff71be18193', 'object': 'text_completion', 'created': 1713323146, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': 'ies for high blood pressure', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 107, 'completion_tokens': 5, 'total_tokens': 112}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+:
+
+1.
+Output for MedDoc model is {'id': 'cmpl-f6a59a55-45af-4514-99d8-eee201f319ae', 'object': 'text_completion', 'created': 1713323148, 'model': 'capybarahermes-2.5-mistral-7b.Q5_K_M.gguf', 'choices': [{'text': ':\n\n1.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 112, 'completion_tokens': 5, 'total_tokens': 117}}ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ and around the world.
+Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ important to take steps to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ prevent it. One way
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ to do that is by
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ eating a heart-health
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+y diet. Here are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ some tips for creating a
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart-healthy meal
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ plan:
+
+1
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Eat plenty of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ fruits and vegetables. F
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ruits and vegetables are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ packed with nutrients
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ like vitamins,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ minerals, and fiber
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ that can help protect your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart. Aim for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ at least five servings
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of fruits and vegetables per
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ day.
+
+2
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Choose whole grains
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ over refined grains
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Whole grains
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ like brown rice, qu
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+inoa, and whole
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ wheat bread are rich in
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ fiber and can help lower
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your risk of heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+.
+
+3.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a common condition that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ affects millions of people worldwide
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. It’s caused
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ by the buildup of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ plaque in your ar
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+teries, which can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ lead to chest pain,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ shortness of breath,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ and even heart attack or
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stroke. While there are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ many medications available to treat
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, some natural
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ remedies may also
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ help manage symptoms and reduce
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your risk of complications
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Here are some natural
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ remedies for heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ disease:
+
+1
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Eat a healthy
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ diet: A diet rich
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ in fruits, vegetables,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ whole grains, lean
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ protein, and healthy f
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ats can help lower your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ risk of heart disease.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a condition that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, such as
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ high blood pressure, high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ cholesterol,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ smoking, and obes
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ity, one factor that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ often gets overlooked is
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress. Stress can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ have a significant impact on
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your heart health, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ it’s essential to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ learn how to manage stress
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ effectively to reduce your risk
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of developing heart disease.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a problem that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, such as
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ high blood pressure, high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ cholesterol,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ and smoking, diet also
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ plays an important role.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart diseases
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the world.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a condition that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, such as
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ high blood pressure, high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ cholesterol,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ smoking, and obes
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ity, one factor that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ often gets overlooked is
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress. Stress can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ have a significant impact on
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your heart health, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ it’s essential to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ manage stress effectively to reduce
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your risk of developing heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ disease. Here are some
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ tips on how to manage
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress and protect your heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ health:
+
+1
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Practice relaxation techniques:
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ Relaxation techniques like
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ deep breathing, meditation,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ and yoga can help reduce
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress levels and lower your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure. These techniques
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ can be done anywhere and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ at any time, making
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ them an excellent way to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ manage stress throughout your day
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+.
+
+2.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ not just affecting older adults
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. In fact, heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ disease can strike at any
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ age. That’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ why it’s important
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ to know the signs and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ symptoms of a heart attack
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, as well as the
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ risk factors that can contribute
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ to heart disease.
+
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+One common miscon
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ception about heart attacks is
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ that they only present with
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ severe chest pain. While
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ chest pain or discomfort
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a classic symptom
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, there are many other
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ signs that you may be
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ experiencing a heart attack.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a condition that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, such as
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ high blood pressure, high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ cholesterol,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ smoking, and obes
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ity, one factor that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ often gets overlooked is
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress. Stress can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ have a significant impact on
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your heart health, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ it’s essential to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ manage stress effectively to reduce
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your risk of developing heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ disease. Here are some
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ tips on how to manage
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress and protect your heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ health.
+
+1
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Identify your stress
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ors: The first step
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ in managing stress is to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ identify what triggers your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stress. This could be
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ work-related stress,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ family issues, financial problems
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, or other life events
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Once you know what
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ causes your stress, you
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ can take steps to avoid
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ or minimize these triggers
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+.
+
+2.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a problem that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, one of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ the most significant is high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure. High blood
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ pressure can damage your ar
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+teries and increase your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ risk of developing heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Fortunately, there are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ several natural remedies
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ that can help lower your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure and improve your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ overall cardiovascular health
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Here are some of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ the best natural remed
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ies for high blood pressure
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+:
+
+1.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 1ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a major health problem
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ in the United States,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ and it’s something
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ that affects millions of people
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ every year. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease, one of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ the most common is high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure. High blood
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ pressure can lead to a
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ number of serious health problems
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, including heart attack,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ stroke, and kidney
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ failure. Fortunately, there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ are several things you can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ do to lower your blood
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ pressure naturally. Here are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ some tips:
+
+
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+1. Eat a
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ healthy diet: Eating
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ a diet that is rich
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ in fruits, vegetables,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ whole grains, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ lean protein can help lower
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your blood pressure. Avoid
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ foods that are high in
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ sodium, satur
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ated fat, and added
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ sugars.
+
+
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+2. Exercise regularly
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+: Regular exercise can help
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ lower your blood pressure by
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ strengthening your heart and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ improving your circulation. A
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+im for at least 
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+30 minutes of moderate
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ exercise, such as br
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+isk walking or cycling
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, most days of the
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ week.
+
+3
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Lose weight:
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ If you are overweight
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ or obese, losing
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ weight can help lower your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ blood pressure. Even losing
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ just a few pounds can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ make a big difference.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ not just affecting older adults
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. In fact, heart
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ disease can affect people of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ all ages, including children
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. One way to help
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ prevent heart disease is by
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ eating a healthy diet that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ includes plenty of fruits and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ vegetables. But did you
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ know that certain foods may
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ actually increase your risk for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ heart disease? Here are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ five foods you should avoid
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ if you want to keep
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ your heart healthy:
+
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+1. Processed
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ meats: Processed
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ meats like hot dogs
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, bacon, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ deli meats are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ high in sodium,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ nitrates, and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ preservatives. These ingredients
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ have been linked to an
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ increased risk of heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. Instead, opt for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ lean proteins like chicken
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ or fish.
+
+
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+2. Fried foods:
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ Fried foods are high in
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ unhealthy fats
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ like trans fats and
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ saturated fats
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. These fats can
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ raise your cholester
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ol levels and increase your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ risk for heart disease.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ is a serious condition that
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ affects millions of people worldwide
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+. It can be caused
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ by various factors, including
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+ genetics, lifestyle choices
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: 
+, and environmental factors.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+
+
+Heart disease
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ is the leading cause of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ death in the United States
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+, and it’s
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ a problem that affects millions
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ of people. While there
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ are many risk factors for
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ heart disease, one of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ the most common is high
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ blood pressure. High blood
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ pressure can lead to a
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ variety of health problems,
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ including heart attack, stroke
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+, and kidney failure
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+. Fortunately, there are
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ several natural remedies
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ that can help lower your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ blood pressure and improve your
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ overall cardiovascular health
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+. Here are some of
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ the best natural remed
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+ies for high blood pressure
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: what can you tell me about heart disease
+:
+
+1.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+
+
+Chest pain
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ is one of the most
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ common symptoms that people experience
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+. It can be caused
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ by a variety of factors
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+, ranging from mild to
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ severe. Chest pain
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ can be sharp, dull
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+, burning or even crushing
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ in nature. The location
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ of chest pain can also
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ vary, with some people
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ experiencing it in the center
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ of their chest while others
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ feel it on either side
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+.
+
+There are
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ many potential causes of chest
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ pain, and it’
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+s essential to determine the
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ underlying cause so that appropriate
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ treatment can be administered
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+. Here are some possible
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ causes of chest pain:
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+
+
+1. Heart
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ attack: A heart attack
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ occurs when blood flow to
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ a part of the heart
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ is blocked, usually due
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ to a blood clot
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+. This can cause severe
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ chest pain that feels like
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ pressure, squeezing,
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ or tightness. Other
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ symptoms may include shortness
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ of breath, nause
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+a, vomiting,
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ and sweating.
+
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+
+2. Angina
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+: Angina is chest
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ pain that occurs when there
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+’s not enough oxygen
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+-rich blood flowing to
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ the heart muscle. This
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ usually happens when there’
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+s narrowing or block
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+age of the coronary
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ arteries. Ang
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ina is often triggered by
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ physical activity or emotional stress
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ and usually lasts for
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ a few minutes.
+
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+
+3. Gastro
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+esophageal re
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+flux disease (GER
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+D): GERD
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ occurs when stomach acid backs
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ up into the esoph
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+agus, causing a
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ burning sensation in the chest
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+. This pain is usually
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ worse after eating and may
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ be accompanied by a sour
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ taste in the mouth.
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+
+
+Chest pain
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ is a common symptom
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ that can be caused by
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ many different conditions. It
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+’s important to determine
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ the cause of chest pain
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ so that appropriate treatment can
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ be given. Here are
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ some possible causes of chest
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ pain and how they can
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ be treated:
+
+
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+1. Angina:
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ This type of chest pain
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ occurs when there is not
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ enough blood flow to the
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ heart muscle due to narrow
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: i am a 21 year old female with chest pain. my family has a history for heart disease. 
+ed arteries.
+Input for MedDoc model is {'age': 21, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+
+
+The statement "
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+I am not a morning
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ person" is often used
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ to describe those who struggle
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ with waking up early
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ and starting their day.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+
+
+The statement "
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+I am a Christian"
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ is one that many people
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+ make, but what does
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+
+
+The statement "
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I have a nail in my leg
+I am a Christian"
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I am a 45 year old male with typical angina and high cholesterol
+
+
+Angina is
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I am a 45 year old male with typical angina and high cholesterol
+ a term used to describe
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I am a 45 year old male with typical angina and high cholesterol
+ chest pain or discomfort
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I am a 45 year old male with typical angina and high cholesterol
+ caused by reduced blood flow
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I am a 45 year old male with typical angina and high cholesterol
+ to the heart muscle.
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Is my heart having a problem
+
+
+## Answer:
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Is my heart having a problem
+
+
+# The answer
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Is my heart having a problem
+ is 10.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with high perspiration
+
+
+High persp
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with high perspiration
+iration is a common problem
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with high perspiration
+ that affects many people.
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+
+
+Pulse rate
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ is the number of times
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ your heart beats per
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ minute. A normal resting
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ pulse rate for adults ranges
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ from 60 to
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ 100 be
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ats per minute (b
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+pm). If you have
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ a higher or lower pulse
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ rate than this, it
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ could indicate an underlying health
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ condition that requires medical attention
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+.
+
+There are
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ several ways to measure your
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Health, I am a 40 year old female with a changing pulse rate
+ pulse rate at home.
+Input for MedDoc model is {'age': 40, 'sex': 1, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+
+
+#### 1
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+00% of the
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ proceeds from this book
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ will be donated to
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ the following charities:
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+
+
+- The National
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ Autistic Society (www
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+.autism.org
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+.uk)
+-
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ The British Institute of Learning
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm currently experiencing heart stinging randomly kindly assist
+
+ Disabilities (www.
+Input for MedDoc model is {'age': None, 'sex': None, 'cp': None, 'trestbps': None, 'chol': None}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Im a 45 year old male with typical angina and high cholesterol
+
+
+
+#### 1
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Im a 45 year old male with typical angina and high cholesterol
+
+00% of the
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Im a 45 year old male with typical angina and high cholesterol
+
+ proceeds from this book
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: Im a 45 year old male with typical angina and high cholesterol
+
+ will be donated to
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+
+
+Angina is
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ a symptom of coron
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ary artery disease,
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ which occurs when the blood
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ vessels that supply your heart
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ with oxygen-rich blood
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ are narrowed or blocked
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+. This condition can cause
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ chest pain, shortness
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ of breath, and other
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ symptoms. Angina is
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ usually caused by ather
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+osclerosis,
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ which is the buildup
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ of fatty deposits
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ (plaques)
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ in your arteries
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+.
+
+There are
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ several types of angina
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+, including stable angina
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+, unstable angina
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+, variant angina,
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ and microvascular ang
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ina. Stable ang
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ina is the most common
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ type and occurs when you
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ engage in physical activity or
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ experience emotional stress. Un
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+stable angina is more
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ severe and can occur at
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ any time, even when
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ you're at rest
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+. Variant angina
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ occurs during rest and is
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ caused by a spasm
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ in one of the coron
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0ca40e73f-ba31-4b62-9716-f3124a6f66f5: I'm a 45 year old male with typical angina and high cholesterol
+ary arteries.
+Input for MedDoc model is {'age': 45, 'sex': 0, 'cp': None, 'trestbps': None, 'chol': 2}Output for MedDoc model is 0
