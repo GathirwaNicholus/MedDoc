@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Ask MedDoc: Your Heart Health Assistant</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Basic styling for a clean and modern look */
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2em;
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+
+    pre {
+      background-color: #eee;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    form {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Ask MedDoc: Your Heart Health Assistant</h1>
+  <p>Get personalized answers to your heart-related questions. We use the latest AI technology to provide you with informative and helpful insights.</p>
+  <p>To ensure your privacy, you'll be assigned a temporary ID for this session. This ID allows us to remember your conversation history for a better experience. You can choose to remain anonymous, or optionally provide some additional information later.</p>
+  <p>Your temporary ID:</p>
+  <pre>{{ user_id }}</pre>
+  <form action="/trying" method="get">
+    <button type="submit">Start Conversation</button>
+  </form>
+</body>
+
+</html>

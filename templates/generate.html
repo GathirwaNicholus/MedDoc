@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>MedDoc - Your AI Medical Assistant</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Add some basic styling for a clean look (optional) */
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+
+    #output {
+      border: 1px solid #ccc;
+      padding: 10px;
+      min-height: 100px;
+    }
+  </style>
+  <script>
+    function generateText() {
+      const prompt = document.getElementById('prompt').value;
+      let accumulatedText = "";
+
+      fetch('/generate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 'prompt': prompt })
+      })
+        .then(response => {
+          if (response.status === 200) { // Check for successful response
+            return response.json();
+          } else {
+            throw new Error("Failed to generate text");
+          }
+        })
+        .then(data => {
+          accumulatedText += data.text;
+          document.getElementById('output').innerHTML = accumulatedText;
+
+          // Update UI with congratulatory or empathetic message
+          const messageElement = document.getElementById('message');
+          messageElement.textContent = data.congrats_message || data.sad_message;
+          messageElement.style.display = 'block'; // Make the message visible
+        })
+        .catch(error => {
+          console.error("Error:", error);
+          // Display user-friendly error message (optional)
+          document.getElementById('output').innerHTML = "An error occurred. Please try again later.";
+        });
+    }
+  </script>
+</head>
+
+<body>
+  <table>
+    <td width="20%"><img width="50px" height="50px" src="..\static\heart_graphic.jpg" alt="Heart Image"></td>
+    <td width="80%"><h2>MedDoc - Your AI Medical Assistant</h2></td>
+  </table>
+  <p>Ask MedDoc anything related to heart health, symptoms, or conditions.</p>
+  <form onsubmit="event.preventDefault(); generateText()">
+    <label for="prompt">Your Question:</label><br>
+    <textarea id="prompt" rows="5" cols="30"></textarea><br>
+    <button type="submit">Ask MedDoc</button>
+  </form>
+  <p id="message" style="display: none;"></p> </body>
+  <div id="output">For a more accurate response, please include the following details; age, sex, cp, trestbps, chol and more about your health metrics</div>
+
+  
+
+</html>
