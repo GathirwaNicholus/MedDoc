@@ -89,21 +89,31 @@ def generate():
             congrats_message = "I understand this might be concerning. While the model suggests a low probability of heart disease, it's important to remember this is for informational purposes only. Please don't hesitate to reach out to a medical professional for a proper diagnosis and guidance."
 
         if output == 1:
-            pre_prompt = "I have heart disease"
+            pre_prompt = "The patient has heart disease and the following symptoms: "
         else:
-            pre_prompt = "I do not have heart disease"
+            pre_prompt = "The patient does not have heart disease but is experiencing the following symptoms or has the following concern: "
         print(f"The output for MedDoc is {output}")
 
         mOutput = output
 
-        post_prompt = "How can you help me diagnose the issue? What is the way forward for me?"
-        prompt = pre_prompt + prompt + post_prompt
+        #pre prompt for a model that should be tailored towards heart disease diangosis
+        heartDiseaseExpert = (
+        "You are a heart disease diagnosis expert. Based on the patient's symptoms and "
+        "the model's classification result, provide tailored advice regarding their condition. "
+        )
+        pre_prompt = (
+        "The patient has been classified as having heart disease and reports the following symptoms: "
+        if output == 1 else
+        "The patient has been classified as not having heart disease but reports the following concerns: "
+        )
+        prompt2 = f"{heartDiseaseExpert}\n{pre_prompt}{prompt}\nProvide your advice in a concise manner."
 
         # Generate text incrementally (replace print with appending to generated_text)
         generated_text = ""
+        initial_prompt = prompt2
         while len(generated_text) < max_length and not generated_text.endswith("."):
             # Generate a batch of tokens
-            output = llm(prompt, max_tokens=5, echo=False, temperature=0.1, top_p=0.9)
+            output = llm(initial_prompt, max_tokens=5, echo=False, temperature=0.05, top_p=0.9)
             next_token = output['choices'][0]['text']
 
             # Update generated text and write it to file
@@ -118,7 +128,7 @@ def generate():
             print(f"Generated Text: {generated_text}")
 
             # Update prompt for next iteration
-            prompt = generated_text
+            initial_prompt = f"{initial_prompt} {next_token}"
 
         # No need to save to database since we're using a text file
 
