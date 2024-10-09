@@ -1,3 +1,15 @@
+# MedDoc Project
+
+## Ownership and Contributions
+This project was developed by Gathura Nicholus Gathirwa as part of a 3rd-year computer science project. The core development, machine learning model design, and overall implementation were independently carried out by me.
+
+### Project Ownership
+- Primary Developer: Gathura Nicholus Gathirwa
+- Original Creator: Gathura Nicholus Gathirwa
+- Project Repository: https://github.com/GathirwaNicholus/MedDoc.git
+
+
+
 This a machine learning powered Medical assistant.
 Takes natural language as the input then processes it passes it to MedDoc, ml model, (the 
 processing is also done by an ml en_core_web_sm to recognize similar terms) then MedDoc outputs
